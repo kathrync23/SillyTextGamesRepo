@@ -1,2 +1,2 @@
 # StupidTextGamesRepo
-These games are text-based and stupid.
+These games are text-based and silly.
